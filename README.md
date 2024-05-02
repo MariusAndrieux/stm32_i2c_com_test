@@ -17,7 +17,3 @@ Le projet est organisé comme suit :
 - `README.md`: Ce fichier que vous lisez actuellement, fournissant des informations sur le projet.
 - `core/`: Répertoire contenant le code source pour tester la communication I2C.
 - `inc/`: Répertoire contenant la documentation supplémentaire, le cas échéant.
-
-## Contribution
-
-Les contributions à ce projet sont les bienvenues ! Si vous souhaitez améliorer le code, ajouter des fonctionnalités supplémentaires ou corriger des bugs, n'hésitez pas à ouvrir une demande de fusion.
